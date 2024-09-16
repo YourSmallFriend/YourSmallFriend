@@ -1,3 +1,6 @@
-![YourSmallFriends's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourSmallFriend&show_icons=true&theme=transparent)
-![YourSmallFriends's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YourSmallFriends)
-
+<a href="https://github.com/YourSmallFriend/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourSmallFriend&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/YourSmallFriend/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourSmallFriend&repo=convoychat" />
+</a>
